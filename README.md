@@ -41,6 +41,28 @@ Este repositório contém o resumo das lições aprendidas durante o laboratóri
 - Rede Virtual
 - Armazenamento
 - Inteligência Artificial e machine learning
+
+#### 🧭 Localizando Serviços por Categoria no Microsoft Azure
+O [portal do Azure](https://portal.azure.com) organiza seus serviços em categorias para facilitar a navegação e o gerenciamento. Veja como explorar esses recursos:
+
+🔍 Acessando os Serviços
+1. Login no Portal Acesse portal.azure.com e entre com suas credenciais.
+
+2. Menu de Navegação No painel lateral esquerdo, clique em “Todos os Serviços” para visualizar a lista completa.
+
+3. Filtragem por Categoria Os serviços estão agrupados em categorias como:
+- Computação: Máquinas Virtuais, App Services, Azure Kubernetes Service.
+- Rede: Virtual Network, Load Balancer, VPN Gateway.
+- Armazenamento: Blob Storage, Disk Storage, File Storage.
+- Banco de Dados: SQL Database, Cosmos DB, MySQL.
+- Segurança: Azure Active Directory, Key Vault, Security Center.
+- Inteligência Artificial: Azure Machine Learning, Cognitive Services, Bot Services.
+
+4. Busca Direta Use a barra de busca para digitar o nome do serviço desejado (ex: “SQL Database”) e acessar rapidamente.
+
+5. Favoritos e Fixação Você pode fixar serviços usados com frequência no painel inicial para acesso rápido.
+
+- Voce pode explorar melhor com a [documentação oficial do Azure](https://learn.microsoft.com/pt-br/azure/) para entender cada serviço e suas aplicações por categoria.
   
 ---
 
