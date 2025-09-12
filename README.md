@@ -43,10 +43,10 @@ Este repositório contém o resumo das lições aprendidas durante o laboratóri
 - Inteligência Artificial e machine learning
 
 #### 🧭 Localizando Serviços por Categoria no Microsoft Azure
-O [portal do Azure](https://portal.azure.com) organiza seus serviços em categorias para facilitar a navegação e o gerenciamento. Veja como explorar esses recursos:
+O portal do Azure organiza seus serviços em categorias para facilitar a navegação e o gerenciamento. Veja como explorar esses recursos:
 
 🔍 Acessando os Serviços
-1. Login no Portal Acesse portal.azure.com e entre com suas credenciais.
+1. Login no Portal: Acesse [portal.azure.com](https://portal.azure.com) e entre com suas credenciais.
 
 2. Menu de Navegação No painel lateral esquerdo, clique em “Todos os Serviços” para visualizar a lista completa.
 
