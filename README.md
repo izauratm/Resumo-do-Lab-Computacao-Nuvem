@@ -1,6 +1,6 @@
 # ☁️ Resumo do Lab: Microsoft Azure AZ-900
 
-Este repositório reúne os principais aprendizados adquiridos durante o laboratório de **Computação em Nuvem** da plataforma [DIO.me](https://web.dio.me), do qual estou atualmente participando. O foco está nos benefícios e aplicações práticas da plataforma **Microsoft Azure**, explorando seus recursos e funcionalidades. O Bootcamp oferece uma base sólida em tecnologias de nuvem, abordando desde os conceitos fundamentais até os componentes essenciais da arquitetura Azure. Entre os temas estudados estão: criação e gerenciamento de máquinas virtuais, configuração de bancos de dados e soluções de armazenamento, além de tópicos avançados como arquitetura em nuvem, governança, monitoramento e segurança de ambientes cloud.
+Este repositório reúne os principais aprendizados adquiridos durante o laboratório de **Computação em Nuvem** da plataforma [DIO.me](https://web.dio.me), Módulo 1, do qual estou atualmente participando. O foco está nos benefícios e aplicações práticas da plataforma **Microsoft Azure**, explorando seus recursos e funcionalidades. O Bootcamp oferece uma base sólida em tecnologias de nuvem, abordando desde os conceitos fundamentais até os componentes essenciais da arquitetura Azure. Entre os temas estudados estão: criação e gerenciamento de máquinas virtuais, configuração de bancos de dados e soluções de armazenamento, além de tópicos avançados como arquitetura em nuvem, governança, monitoramento e segurança de ambientes cloud.
 
 
 # 📘 Primeiros Tópicos Abordados
@@ -84,11 +84,8 @@ O portal do Azure organiza seus serviços em categorias para facilitar a navega�
 
 O laboratório reforçou a importância da computação em nuvem como solução moderna, escalável e segura para empresas e nós, desenvolvedores. O Microsoft Azure se destaca por sua robustez, flexibilidade e ferramentas de gestão que tornam o ambiente mais previsível e confiável.
 Ao mergulharmos nas diversas possibilidades que o Microsoft Azure oferece, fica claro que não só podemos resolver os desafios complexos de TI como também abrir as portas para inovação e crescimento sustentável.
-
+> Este conteúdo faz parte do projeto **Computação em Nuvem - Laboratório** da plataforma DIO.me.
 
 📎 *Este conteúdo faz parte do curso [Microsoft Azure AZ-900 | Computação em Nuvem - DIO.me](https://web.dio.me/lab/computacao-da-nuvem-laboratorio/learning/6d6083cf-0291-428d-a5f2-c93166e6874d?back=/track/microsoft-azure-az-900)*
 
----
-
-## 📋 Licença
-Este projeto está licenciado sob a Licença MIT – fique à vontade para usar e adaptar!
+ 
