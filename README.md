@@ -85,6 +85,10 @@ O portal do Azure organiza seus serviços em categorias para facilitar a navega�
 O laboratório reforçou a importância da computação em nuvem como solução moderna, escalável e segura para empresas e nós, desenvolvedores. O Microsoft Azure se destaca por sua robustez, flexibilidade e ferramentas de gestão que tornam o ambiente mais previsível e confiável.
 Ao mergulharmos nas diversas possibilidades que o Microsoft Azure oferece, fica claro que não só podemos resolver os desafios complexos de TI como também abrir as portas para inovação e crescimento sustentável.
 
----
 
 📎 *Este conteúdo faz parte do curso [Microsoft Azure AZ-900 | Computação em Nuvem - DIO.me](https://web.dio.me/lab/computacao-da-nuvem-laboratorio/learning/6d6083cf-0291-428d-a5f2-c93166e6874d?back=/track/microsoft-azure-az-900)*
+
+---
+
+## 📋 Licença
+Este projeto está licenciado sob a Licença MIT – fique à vontade para usar e adaptar!
