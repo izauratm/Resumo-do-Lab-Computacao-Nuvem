@@ -6,6 +6,8 @@ Este repositório reúne os principais aprendizados adquiridos durante o laborat
 # 📘 Primeiros Tópicos Abordados
 
 ### 🌐 Introdução à Computação em Nuvem
+<img width="728" height="443" alt="fig1" src="https://github.com/user-attachments/assets/60f035ca-2b3d-49d1-873e-d094b9105dcf" />
+
 - É importante entender o que é computação em nuvem. Este termo refere-se ao fornecimento de serviços de computação pela internet, como servidores, armazenamento, bancos de dados, rede, software, entre outros. Então, quando falamos “nuvem”, nos referindo a um tipo de processamento que muitas vezes acontece geograficamente distante e de forma terceirizada.
 - A computação em nuvem permite acesso remoto a recursos de TI via internet, com alta disponibilidade e flexibilidade.
 - O Microsoft Azure é uma das principais plataformas de nuvem, oferecendo soluções em IaaS, PaaS e SaaS. O Microsoft Azure é uma plataforma de serviços de computação em nuvem oferecida pela Microsoft. Foi lançado em 2010 e desde então se tornou uma das principais plataformas de nuvem do mercado.
@@ -87,5 +89,7 @@ Ao mergulharmos nas diversas possibilidades que o Microsoft Azure oferece, fica 
 > Este conteúdo faz parte do projeto **Computação em Nuvem - Laboratório** da plataforma DIO.me.
 
 📎 *Este conteúdo faz parte do curso [Microsoft Azure AZ-900 | Computação em Nuvem - DIO.me](https://web.dio.me/lab/computacao-da-nuvem-laboratorio/learning/6d6083cf-0291-428d-a5f2-c93166e6874d?back=/track/microsoft-azure-az-900)*
+
+🖼️ Imagens: Fonte Dio.me
 
  
