@@ -92,4 +92,11 @@ Ao mergulharmos nas diversas possibilidades que o Microsoft Azure oferece, fica 
 
 🖼️ Imagens: Fonte Dio.me
 
+---
+
+### Licença
+
+Este projeto está licenciado sob os termos da [Licença MIT](LICENSE).
+
+<img alt="Static Badge" src="https://img.shields.io/badge/license-MIT-green">
  
